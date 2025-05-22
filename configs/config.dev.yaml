@@ -1,0 +1,14 @@
+app:
+  debug: true
+modules:
+  mcp:
+    server:
+      log:
+        request: true
+        response: true
+      trace:
+        request: true
+        response: true
+  log:
+    level: debug
+    output: console
