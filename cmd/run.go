@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/ankorstore/yokai-mcp-template/internal"
+	"github.com/ekkinox/mcp-library/internal"
 	"github.com/spf13/cobra"
 )
 

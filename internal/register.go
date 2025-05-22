@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"github.com/ankorstore/yokai-mcp-template/internal/tool"
+	"github.com/ekkinox/mcp-library/internal/tool"
 	"github.com/ankorstore/yokai/fxhealthcheck"
 	"github.com/ankorstore/yokai/fxmcpserver"
 	"github.com/ankorstore/yokai/fxmcpserver/server"

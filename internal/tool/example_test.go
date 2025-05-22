@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ankorstore/yokai-mcp-template/internal"
+	"github.com/ekkinox/mcp-library/internal"
 	"github.com/ankorstore/yokai/fxmcpserver/fxmcpservertest"
 	"github.com/ankorstore/yokai/log/logtest"
 	"github.com/ankorstore/yokai/trace/tracetest"

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ankorstore/yokai-mcp-template/cmd"
+	"github.com/ekkinox/mcp-library/cmd"
 )
 
 func main() {
